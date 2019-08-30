@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61f6ca60-0116-49ae-9d7f-2df4a543e7da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GAN_MNIST.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GAN_project1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GAN_project1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GAN_MNIST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GAN_MNIST.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoints/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoints/generator.ckpt.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoints/generator.ckpt.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkpoints/generator.ckpt.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +49,16 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="11655499">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -50,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/GAN_MNIST.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="31" />
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -123,14 +139,31 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="tf16cpu" type="JupiterNotebook" factoryName="Jupyter Notebook">
+    <configuration name="GAN_introduction" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="GAN_project1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\hiro\Anaconda3\envs\tf16cpu\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\hiro\Anaconda3\envs\GAN_introduction\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="GAN_project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\hiro\Anaconda3\envs\GAN_introduction\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -156,7 +189,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15898252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -191,7 +223,7 @@
     <entry file="file://$PROJECT_DIR$/GAN_MNIST.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="31" />
+          <selected id="0" />
         </state>
       </provider>
     </entry>
