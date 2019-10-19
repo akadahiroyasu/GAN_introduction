@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.6 (GAN_introduction)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Conditional-LSTM-GAN-for-Autonomous-Robot" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="pytest" />
